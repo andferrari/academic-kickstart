@@ -73,11 +73,11 @@ user_groups:
 
 I am currently a professor at the Laboratoire [J.-L. Lagrange](https://lagrange.oca.eu/), a joint laboratory between [Université Côte d'Azur](http://univ-cotedazur.fr/), [CNRS](https://www.cnrs.fr/) and [Observatoire de la Côte d'Azur](https://www.oca.eu/).
 
-My current research  activity is centered around statistical data processing, inverse problems and machine learning, 
-with a particular interest in applications to Astrophysics, such as radio interferometry, and hyperspectral imaging.
+My current research  activity is centered around statistical data processing, inverse problems and machine learning. I have a particular interest in applications to Astrophysics, such as radio interferometry, and hyperspectral imaging.
 
-My recent interests include processing of streamed measurements, such as images, 
-modeled as graph-structured data for, e.g., change detection.
+My recent interests include processing of streamed measurements with complex structures
+which can be encoded in a graph. An example of application is the detection of
+changes in a stream of images.
 
 
 
