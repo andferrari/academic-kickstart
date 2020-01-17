@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: CVX MAUCA
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 3
+summary: Learn how to numerically solve a convex optimization problem.
+weight: 5
 
 # Page metadata.
 title: Convex optimization  
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: CVX MAUCA
-    weight: 1
+    weight: 5
 ---
 
 This course is taught to [MAUCA](http://mauca.unice.fr) students.
@@ -28,6 +28,8 @@ This course is taught to [MAUCA](http://mauca.unice.fr) students.
 The course is devoted to  the task of estimating parameters from data contaminated by noises. The objective is to help the students to develop the skills needed to derive a possibly optimal algorithm to solve a given practical estimation problem. 
 
 It will particularly focus on the implementation. For that a large part of the course will be devoted to mathematical optimization which consists of deriving an algorithm to numerically minimize a cost function over a defined domain.
+
+![Example image](figure_1.png)
 
 ## Theory
 
@@ -67,6 +69,9 @@ Mathematical optimization arises in many  scientific areas and is an
 important enough topic that everyone in physics should know at least 
 a little about it.
 
+
+![Example image](figure_2.png)
+
 ## Applications
 
 A large part of the course is devoted to practical projects, where the students 
@@ -74,4 +79,14 @@ will code various algorithms and compare theoretical results with simulation res
 Students will have to complete three projects during the course and are welcomed to 
 work in pairs and to submit a single document. The computations will be 
 preferentially carried out in julia or python.  
+
+## Textbook 
+
+![Example image](figure_3.png)
+
+The course will cover parts of:
+> Convex Optimization, Stephen Boyd and Lieven Vandenberghe
+> Cambridge University Press
+
+A pdf version of the book and more material can be download from the book [site](https://web.stanford.edu/~boyd/cvxbook/).
 

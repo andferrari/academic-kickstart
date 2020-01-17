@@ -36,8 +36,8 @@ We recently devised an online change-point detection algorithm in [[1](/publicat
 
 A natural extension is to tackle the case where the measurement at each node is vectored value. This paves the way to many applications such as the detection of changes in hyper spectral images where a node is associated to each pixel, the graph models spatial dependences between pixels and each node is associated to the corresponding spectrum. The internship will focus on theoretical aspects related to the development of a multivariate detection algorithm, including multivariate graph signal processing, and practical application to change detection in multi temporal  hyperspectral images.
 
-To apply for this intership, please contact me. This is a joint work with 
-[Cédric Richard](https://cedric-richard.fr).
+This is a joint work with [Cédric Richard](https://cedric-richard.fr).
 
+To apply for this intership, please contact me. 
 - **When?** 4-6 months, spring 2020
 - **Where?** J.-L. Lagrange Lab., Campus Valrose, University Côte d'Azur, Nice (downtown), France

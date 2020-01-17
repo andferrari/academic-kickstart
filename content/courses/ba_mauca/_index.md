@@ -1,8 +1,8 @@
 ---
 # Course title, summary, and position.
 linktitle: BA MAUCA
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
-weight: 4
+summary: Learn how to use Bayesian formalism to model and solve a problem.
+weight: 6
 
 # Page metadata.
 title: Bayesian analysis. Application to image reconstruction
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: BA MAUCA
-    weight: 1
+    weight: 6
 ---
 
 This course is taught to [MAUCA](http://mauca.unice.fr) students.
@@ -36,6 +36,8 @@ A large part of the course is devoted to the application of Bayesian models
 to image reconstruction in astrophysics. It will particularly focus on choice of the priors
 and the implementation.
 
+
+![Example image](figure_2.png)
 
 ## Theory
 
@@ -60,6 +62,8 @@ image reconstruction (e.g. in radioastronomy or optical interferometry), image s
 The resolution of these ill-posed problems require a regularization (or prior) 
 and the Bayesian formalism is proved to be the natural framework to address these problems.
 
+
+![Example image](figure_1.png)
 
 
 ## Applications

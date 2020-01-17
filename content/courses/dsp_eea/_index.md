@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: DSP L3 ELEC
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Learn how to analyze signals using filters and Fourier transforms.
 weight: 1
 
 # Page metadata.
-title: DSP L3 ELEC
+title: Digital signal processing
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -51,6 +51,8 @@ Due dates will be posted on the website along with the assignments. Late homewor
 In this course we will be using Julia.
 
 ## Course textbooks
+
+![Example image](figure_3.png)
 
 The course will cover parts of:
 

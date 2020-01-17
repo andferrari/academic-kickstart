@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
 linktitle: IP ESTEL
-summary: Learn how to use Academic's docs layout for publishing online courses, software documentation, and tutorials.
+summary: Learn how to numerically solve an inverse problem to reconstruct an image.
 weight: 2
 
 # Page metadata.
-title: CVX Mauca
+title: Inverse problems and imaging
 date: "2018-09-09T00:00:00Z"
 lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   example:
     name: IP ESTEL
-    weight: 1
+    weight: 2
 ---
 
 This course is taught to Master 2 [ESTEL](http://www.unice.fr/elec/) students.
