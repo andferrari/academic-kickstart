@@ -22,3 +22,5 @@ menu:
 ---
 
 This course is taught to Master 2 [ESTEL](http://www.unice.fr/elec/) students.
+
+![Example image](figure_1.png)

@@ -23,6 +23,7 @@ menu:
 
 This course is taught to Licence 3 [EEA](http://www.unice.fr/elec/) students.
 
+![Example image](figure_2.png)
 
 ## Desription
 
@@ -32,9 +33,12 @@ This course will introduce the students to the fundamental of discrete-time sign
 - The z-transform
 - Sampling of continuous-time signals
 - Transform analysis of linear time-invariant systems
-- Fourier transforms: DFT and FFT
+- Fourier transforms: FT, DFT and FFT
 - Introduction to filter design techniques.
-- A large part of the course is devoted to practical projects, where the students will code - various algorithms and compare theoretical results with simulation results.
+
+A large part of the course is devoted to practical projects, where the students will code various algorithms and compare theoretical results with simulation results.
+
+![Example image](figure_1.png)
 
 ## Piazza
 
@@ -48,7 +52,7 @@ Due dates will be posted on the website along with the assignments. Late homewor
 
 ## Software
 
-In this course we will be using Julia.
+In this course we will be using [Julia](https://julialang.org). 
 
 ## Course textbooks
 
