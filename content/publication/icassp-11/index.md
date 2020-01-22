@@ -1,7 +1,7 @@
 ---
 title: "Transitional surrogates"
 date: 2011-05-01
-publishDate: 2020-01-14T09:47:27.313049Z
+publishDate: 2020-01-22T13:50:09.861738Z
 authors: ["P. Borgnat", "P. Flandrin", "A. Ferrari", "C. Richard"]
 publication_types: ["1"]
 abstract: ""

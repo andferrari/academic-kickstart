@@ -1,7 +1,7 @@
 ---
 title: "Classification of multivariate data using Dirichlet process mixture models"
 date: 2012-11-01
-publishDate: 2020-01-14T09:47:27.297419Z
+publishDate: 2020-01-22T13:50:09.844755Z
 authors: ["P. Djuric", "A. Ferrari"]
 publication_types: ["1"]
 abstract: ""
