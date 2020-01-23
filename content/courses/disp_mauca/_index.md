@@ -23,37 +23,40 @@ menu:
 
 This course is taught to [MAUCA1](http://mauca.unice.fr) students.
 
-![Example image](figure_1.png)
+## Description
 
 The objective of this course is to present the fundamental mathematics and concepts of discrete-time signal and image processing. 
 These topics are presented in the context of signal processing and extended to image processing. 
 A large part of the course will be devoted to computer implementation of signal and image processing systems.
 
+![Example image](figure_1.png)
+
+
 ## Content 
 
-- Discrete-Time Signals and Systems
-1. Properties of systems
-2. Linear and Time Invariant (LTI) systems. Convolution
-3. Linear Constant-Coefficients Difference Equations
-4. Frequency response of a stable LTI
-- The z-Transform and Filter Design
-1. z-transform Properties. Properties of the ROC
-2. z-transforms and LTI Systems
-3. Design of Discrete-Time IIR Filters and design of FIR Filters
-- The Discrete Fourier Transform
-1. Representation of Periodic Sequences: The Discrete Fourier Series 
-2. Fourier Representation of Finite-Duration Sequences
-3. Properties of the DFT, Linear Convolution Using the DFT
-4. Computation of the Discrete Fourier Transform and FFT Algorithms 
-- Image processing
-1. Convolutions in Space Domain and Fourier Domain
-2. Matrix Representation of Convolution and properties 
-3. Elementary image transforms, edge detection
-4. Image filtering
-- Introduction to Wavelets
-1. Time frequency analysis
-2. Continuous and discrete wavelets transform
-3. Multi-resolution analysis
+1. Discrete-time signals and systems
+	- Properties of systems
+	- Linear and time invariant (LTI) systems. convolution
+	- Linear constant-coefficients difference equations
+	- Frequency response of a stable LTI
+2. The z-transform and filter design
+	- z-transform properties. properties of the roc
+	- z-transforms and LTI systems
+	- Design of discrete-time iir filters and design of fir filters
+3. The discrete fourier transform
+	- Representation of periodic sequences: the discrete fourier series 
+	- Fourier representation of finite-duration sequences
+	- Properties of the dft, linear convolution using the dft
+	- Computation of the discrete fourier transform and fft algorithms 
+4. Image processing
+	- Convolutions in space domain and fourier domain
+	- Matrix representation of convolution and properties 
+	- Elementary image transforms, edge detection
+	- Image filtering
+5. Introduction to wavelets
+	- Time frequency analysis
+	- Continuous and discrete wavelets transform
+	- Multi-resolution analysis
 
 ![Example image](figure_2.png)
 

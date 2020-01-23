@@ -1,6 +1,6 @@
 ---
 # Course title, summary, and position.
-linktitle: DSP L3 ELEC
+linktitle: DSP ELEC3
 summary: Learn how to analyze signals using filters and Fourier transforms.
 weight: 1
 
@@ -17,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   example:
-    name: DSP L3 ELEC
+    name: DSP ELEC3
     weight: 1
 ---
 
@@ -27,8 +27,8 @@ This course is taught to Licence 3 [EEA](http://www.unice.fr/elec/) students.
 
 ## Desription
 
-This course will introduce the students to the fundamental of discrete-time signal processing. It will particularly focus
-
+This course will introduce the students to the fundamental of discrete-time signal processing. 
+It will particularly focus on:
 - Discrete-time signals and systems, convolution
 - The z-transform
 - Sampling of continuous-time signals

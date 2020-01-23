@@ -6,7 +6,7 @@ tags:
 - image processing
 - inverse problems
 - radioastronomy
-date: "2015-01-15T00:00:00Z"
+date: "2016-01-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://magellan.oca.eu
