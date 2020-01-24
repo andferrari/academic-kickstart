@@ -91,7 +91,7 @@ address = {street = "Lab. J.L. Lagrange, Parc Valrose", city = "Nice", region = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "43.716654", longitude = "7.269055"}
+coordinates = {latitude = "43.7164", longitude = "7.2690"}
 
 # Directions for visitors to locate you.
 directions = "Building H. Fizeau, level 4, office 007"
