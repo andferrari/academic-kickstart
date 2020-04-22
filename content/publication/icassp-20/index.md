@@ -1,7 +1,7 @@
 ---
 title: "Non-parametric community change-points detection in streaming graph signals"
-date: 2020-01-01
-publishDate: 2020-02-05T10:17:40.441378Z
+date: 2020-05-01
+publishDate: 2020-03-04T09:34:16.327586Z
 authors: ["A. Ferrari", "C. Richard"]
 publication_types: ["1"]
 abstract: ""
