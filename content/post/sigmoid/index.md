@@ -48,7 +48,7 @@ ydata = σ(xdata, [1 1]) + 0.05*randn(n)
 anim = @animate for i in 2:n
     θ_est = coef(curve_fit(σ, xdata[1:i], ydata[1:i], [1.0, 1.0]))
     
-    plot(x_plot, y_plot, label="True", legend=:bottomright, ylims=(0, 1.25), w=3)
+    plot(x_plot, y_plot, label="True", legend=:bottomright, ylims=(-0.25, 1.25), w=3)
     scatter!(xdata[1:i], ydata[1:i], label="", ms = 5)
     scatter!(xdata[i+1:end], ydata[i+1:end], label="", mc = :lightgray, ms = 5)
     plot!(x_plot, σ(x_plot, θ_est) , label="Estimated", w=2)

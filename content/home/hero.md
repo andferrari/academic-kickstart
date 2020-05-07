@@ -38,8 +38,8 @@ title = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "/post/master_graph1"
-  label = "New Master internship offer"
+  url = "/post/phd20"
+  label = "PhD scholarship on machine learning for multispectral satellite images"
   icon_pack = "fas"
   icon = "download"
   
