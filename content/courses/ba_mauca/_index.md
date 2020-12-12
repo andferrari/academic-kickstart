@@ -21,6 +21,8 @@ menu:
     weight: 6
 ---
 
+*The course will not be taught during 2020-2021.*
+
 This course is taught to [MAUCA](http://mauca.unice.fr) students.
 
 ## Abstract
