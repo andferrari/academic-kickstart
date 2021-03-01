@@ -62,7 +62,7 @@ end
 begin	
 x, k_max = grad_desc()
 x1_, x2_ = LinRange(-10, 10, 64), LinRange(-5, 5, 64)
-contour(x1_, x2_, (x,y)->f([x, y]), xlab="x₁", ylab= "x₂", rat=:equal, cb=false);
+contour(x1_, x2_, (x,y)->f([x, y]), xl="x₁", yl= "x₂", rat=:equal, cb=false);
 plot!(x[1, 1:k_max], x[2,1:k_max], m=:circle, label="")
 title!("f(x) = x₁² + $γ.x₂²,  $(k_max-1) iterations", titlefontsize=10)
 end
