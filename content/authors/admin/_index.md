@@ -26,6 +26,8 @@ interests:
 - Applications to Astrophysics 
 - Hyperspectral imaging
 
+# After 25 years of matlab, I am perfectly happy with [julia](http://julialang.org) since 2014 (v0.3.1).
+
 # education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
