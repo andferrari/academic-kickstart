@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Martjin at Marine Seismology Symposium"
+title: "Martjin's talk at Marine Seismology Symposium"
 subtitle: "Marine Seismology Symposium"
 summary: ""
 authors: []
