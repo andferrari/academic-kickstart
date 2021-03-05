@@ -6,6 +6,8 @@ authors: ["R. A. Borsoi", "C. Richard", "A. Ferrari", "J. Chen", "J. C. M. Bermu
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Submitted*"
----
+publication: "European Signal Processing Conference (EUSIPCO)"
 
+links:
+url_preprint: 'http://arxiv.org/abs/2006.14033'
+---
