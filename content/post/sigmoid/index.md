@@ -5,7 +5,7 @@ title: "Sigmoid fit"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["julia"]
 categories: []
 date: 2020-04-22T14:34:20+02:00
 lastmod: 2020-04-22T14:34:20+02:00
