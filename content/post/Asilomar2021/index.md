@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Martjin's MSS talk 📽"
-subtitle: "IRIS 2021 Marine Seismology Symposium"
+title: "Martjin's Asilomar 2021 talk 📽"
+subtitle: "Asilomar Conference on Signals, Systems, and Computers, 2021"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-03-05T15:16:05+01:00
-lastmod: 2021-03-05T15:16:05+01:00
+date: 2021-09-09T11:04:19+02:00
+lastmod: 2021-09-09T11:04:19+02:00
 featured: false
 draft: false
 
@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
-Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: _A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing_.
+Martjin Van Ende presentation at 2021 Asilomar conference: 
+_Next-Generation Traffic Monitoring with Distributed
+Acoustic Sensing Arrays and Optimum Array Processing_.
 
-{{< youtube wIe0m2OxTCk >}}
+{{< youtube xdG1yCRwFZY >}}
