@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Smith | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/i.-smith/</link>
+      <atom:link href="https://andferrari.github.io/authors/i.-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I. Smith</title>
+      <link>https://andferrari.github.io/authors/i.-smith/</link>
+    </image>
+    
+    <item>
+      <title>Generalization of the posterior distribution of the likelihood ratio to composite vs composite hypotheses testing</title>
+      <link>https://andferrari.github.io/publication/isba-12/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/isba-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of methods for detection and characterization of exoplanets with SPHERE/IRDIS</title>
+      <link>https://andferrari.github.io/publication/spie-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Posterior distribution of the Likelihood Ratio as a measure of evidence</title>
+      <link>https://andferrari.github.io/publication/maxent-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/maxent-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive kernel matrix learning with hierarchic Bayesian model, application to hyperspectral images</title>
+      <link>https://andferrari.github.io/publication/igarss-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/igarss-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of a moving source in speckle noise. Application to exoplanet detection</title>
+      <link>https://andferrari.github.io/publication/art-tsp-07/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection d&#39;exoplanètes par imagerie directe, une approche Bayesienne</title>
+      <link>https://andferrari.github.io/publication/gretsi-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and performance analysis for a moving point source in speckle noise, application to exoplanet detection by direct imaging.</title>
+      <link>https://andferrari.github.io/publication/icassp-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of moving exoplanets detection using the VLT instrument SPHERE/IRDIS</title>
+      <link>https://andferrari.github.io/publication/spie-08-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Software Package SPHERE: a CAOS-based numerical tool for end-to-end simulations of SPHERE/VLT</title>
+      <link>https://andferrari.github.io/publication/spie-08-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-08-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exoplanet detection algorithm for field-rotated coronagraphic images, and preliminary results for SPHERE</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-07/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

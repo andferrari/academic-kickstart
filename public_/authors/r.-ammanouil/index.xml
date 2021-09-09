@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Ammanouil | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/r.-ammanouil/</link>
+      <atom:link href="https://andferrari.github.io/authors/r.-ammanouil/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Ammanouil</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Ammanouil</title>
+      <link>https://andferrari.github.io/authors/r.-ammanouil/</link>
+    </image>
+    
+    <item>
+      <title>A parallel and automatically tuned algorithm for multispectral image deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-mnras-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-mnras-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution strategies for very large 3D image deconvolution algorithms</title>
+      <link>https://andferrari.github.io/publication/art-spic-18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-spic-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ADA-PT: An Adaptive Parameter Tuning Strategy Based on the Weighted Stein Unbiased Risk Estimator</title>
+      <link>https://andferrari.github.io/publication/icassp-18/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unmixing of multispectral photoacoustic images</title>
+      <link>https://andferrari.github.io/publication/gretsi-17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio-interferometry with self-tuned regularization parameters</title>
+      <link>https://andferrari.github.io/publication/eusipco-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Unmixing of Hyperspectral Data With Vector-Valued Kernel Functions</title>
+      <link>https://andferrari.github.io/publication/art-tip-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial regularization for nonlinear unmixing of hyperspectral data with vector-valued kernel functions</title>
+      <link>https://andferrari.github.io/publication/ssp-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised neighbor dependent nonlinear unmixing</title>
+      <link>https://andferrari.github.io/publication/icassp-16-2/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-16-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modèle non-linéaire et semi-paramétrique pour le démélange non-supervisé d&#39;images hyperspectrales</title>
+      <link>https://andferrari.github.io/publication/gretsi-15-2/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-15-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hyperspectral data unmixing with graph-based regularization</title>
+      <link>https://andferrari.github.io/publication/whispers-15/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/whispers-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A graph Laplacian regularization for hyperspectral data unmixing</title>
+      <link>https://andferrari.github.io/publication/icassp-15-a/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind and Fully Constrained Unmixing of Hyperspectral Images</title>
+      <link>https://andferrari.github.io/publication/art-tip-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLUP: yet another algorithm for blind unmixing of hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/whispers-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/whispers-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

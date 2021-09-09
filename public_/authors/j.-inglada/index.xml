@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Inglada | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/j.-inglada/</link>
+      <atom:link href="https://andferrari.github.io/authors/j.-inglada/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Inglada</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Inglada</title>
+      <link>https://andferrari.github.io/authors/j.-inglada/</link>
+    </image>
+    
+    <item>
+      <title>Bivariate Gamma Distributions for Image Registration and Change Detection</title>
+      <link>https://andferrari.github.io/publication/art-tip-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter estimation for multivariate Gamma distributions, application to image registration</title>
+      <link>https://andferrari.github.io/publication/eusipco-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

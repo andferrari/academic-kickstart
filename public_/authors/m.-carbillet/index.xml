@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Carbillet | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/m.-carbillet/</link>
+      <atom:link href="https://andferrari.github.io/authors/m.-carbillet/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Carbillet</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Carbillet</title>
+      <link>https://andferrari.github.io/authors/m.-carbillet/</link>
+    </image>
+    
+    <item>
+      <title>New Concepts in Imaging: Optical and Statistical Models</title>
+      <link>https://andferrari.github.io/publication/eas-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eas-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apodized Lyot coronagraph for SPHERE/VLT</title>
+      <link>https://andferrari.github.io/publication/art-expa-11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-expa-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic adaptive optics: disturbance rejection control</title>
+      <link>https://andferrari.github.io/publication/spie-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparison of methods for detection and characterization of exoplanets with SPHERE/IRDIS</title>
+      <link>https://andferrari.github.io/publication/spie-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some results on disturbance rejection control for an adaptive optics system</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of a moving source in speckle noise. Application to exoplanet detection</title>
+      <link>https://andferrari.github.io/publication/art-tsp-07/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and performance analysis for a moving point source in speckle noise, application to exoplanet detection by direct imaging.</title>
+      <link>https://andferrari.github.io/publication/icassp-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation of moving exoplanets detection using the VLT instrument SPHERE/IRDIS</title>
+      <link>https://andferrari.github.io/publication/spie-08-a/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-08-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Software Package SPHERE: a CAOS-based numerical tool for end-to-end simulations of SPHERE/VLT</title>
+      <link>https://andferrari.github.io/publication/spie-08-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-08-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An exoplanet detection algorithm for field-rotated coronagraphic images, and preliminary results for SPHERE</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomy with High Contrast Imaging III</title>
+      <link>https://andferrari.github.io/publication/ithd-06-b/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ithd-06-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processing for Exoplanet Detection Using Direct Imaging</title>
+      <link>https://andferrari.github.io/publication/iauc-05-a/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/iauc-05-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speckle statistics in direct and coronagraphic imaging</title>
+      <link>https://andferrari.github.io/publication/iauc-05-b/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/iauc-05-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

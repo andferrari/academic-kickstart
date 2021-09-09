@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Michel | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/o.-michel/</link>
+      <atom:link href="https://andferrari.github.io/authors/o.-michel/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Michel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>O. Michel</title>
+      <link>https://andferrari.github.io/authors/o.-michel/</link>
+    </image>
+    
+    <item>
+      <title>Signaux Aléatoires, Modélisation Estimation Détection</title>
+      <link>https://andferrari.github.io/publication/ic-2-detec/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ic-2-detec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Flux Variation Detection in Poisson Processes, Application to Direct Detection of Extra-solar Planets</title>
+      <link>https://andferrari.github.io/publication/psip-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/psip-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Astronomy with High Contrast Imaging</title>
+      <link>https://andferrari.github.io/publication/ithd-02/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ithd-02/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

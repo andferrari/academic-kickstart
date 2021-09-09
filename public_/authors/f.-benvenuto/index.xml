@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Benvenuto | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/f.-benvenuto/</link>
+      <atom:link href="https://andferrari.github.io/authors/f.-benvenuto/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Benvenuto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Benvenuto</title>
+      <link>https://andferrari.github.io/authors/f.-benvenuto/</link>
+    </image>
+    
+    <item>
+      <title>Joint myopic deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-ip-09/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ip-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The study of an iterative method for the reconstruction of images corrupted by Poisson and Gaussian noise</title>
+      <link>https://andferrari.github.io/publication/art-ip-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ip-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

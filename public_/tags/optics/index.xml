@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>optics | André Ferrari</title>
+    <link>https://andferrari.github.io/tags/optics/</link>
+      <atom:link href="https://andferrari.github.io/tags/optics/index.xml" rel="self" type="application/rss+xml" />
+    <description>optics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jan 2014 01:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>optics</title>
+      <link>https://andferrari.github.io/tags/optics/</link>
+    </image>
+    
+    <item>
+      <title>POLCA</title>
+      <link>https://andferrari.github.io/project/polca/</link>
+      <pubDate>Wed, 15 Jan 2014 01:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/project/polca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JITHDE</title>
+      <link>https://andferrari.github.io/project/jithde/</link>
+      <pubDate>Sat, 15 Jan 2011 01:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/project/jithde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

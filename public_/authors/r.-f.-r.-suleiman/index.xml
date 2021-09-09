@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. F. R. Suleiman | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/r.-f.-r.-suleiman/</link>
+      <atom:link href="https://andferrari.github.io/authors/r.-f.-r.-suleiman/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. F. R. Suleiman</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. F. R. Suleiman</title>
+      <link>https://andferrari.github.io/authors/r.-f.-r.-suleiman/</link>
+    </image>
+    
+    <item>
+      <title>Dimension Reduction for Hypothesis Testing in Worst-Case Scenarios</title>
+      <link>https://andferrari.github.io/publication/art-tsp-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection de sources astrophysiques dans les données du spectrographe integral de champ MUSE</title>
+      <link>https://andferrari.github.io/publication/sfpt-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sfpt-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace learning in minimax detection</title>
+      <link>https://andferrari.github.io/publication/icassp-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parcimonie, apprentissage et classification pour une approche minimax en détection</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back to Results Minimax sparse detection based on one-class classifiers</title>
+      <link>https://andferrari.github.io/publication/icassp-13-c/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-13-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained likelihood ratios for detecting sparse signals in highly noisy 3D data</title>
+      <link>https://andferrari.github.io/publication/icassp-13-b/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-13-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

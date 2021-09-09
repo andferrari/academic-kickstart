@@ -1,0 +1,1074 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.0.0-beta.3 for Hugo" />
+  
+
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://andferrari.github.io/post/phd20/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#1565c0" />
+  
+
+  
+  
+    
+    <script src="/js/mathjax-config.js"></script>
+  
+
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'" disabled>
+        
+      
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.dd930f0f661aea3a689da8730b2d6bb3.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_2.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_2.png" />
+
+  <link rel="canonical" href="https://andferrari.github.io/post/phd20/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="André Ferrari" />
+  <meta property="og:url" content="https://andferrari.github.io/post/phd20/" />
+  <meta property="og:title" content="PhD scholarship | André Ferrari" />
+  <meta property="og:description" content="Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases." /><meta property="og:image" content="https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" />
+    <meta property="twitter:image" content="https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2020-05-07T12:35:59&#43;02:00"
+      />
+    
+    <meta property="article:modified_time" content="2020-05-07T12:35:59&#43;02:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://andferrari.github.io/post/phd20/"
+  },
+  "headline": "PhD scholarship",
+  
+  "datePublished": "2020-05-07T12:35:59+02:00",
+  "dateModified": "2020-05-07T12:35:59+02:00",
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "André Ferrari",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>PhD scholarship | André Ferrari</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="f14cb6365e4557fdcad33c22fbf423a2" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.88ee75047701df4d9d6cf75910775bfd.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">André Ferrari</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">André Ferrari</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/courses/"><span>Courses</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>PhD scholarship</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 7, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    5 min read
+  </span>
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h2 id="line-by-line-deep-learning-algorithm-for-detection-of-artifacts-in-uncalibrated-multispectral-satellite-images">Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images</h2>
+<p>The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases. State-of-the-art algorithms use reference data either from a local neighborhood around the pixel/spectrum to be tested, either using all or part of the HSI data possibly at a different time instant. The most popular among these algorithms are the Reed-Xiaoli Detector (RXD) [1] and its many variations. More recently algorithms using deep convolutional neural networks have proved their effectiveness for this task [2].</p>
+<p>All these approaches rely on pairs of learning and testing spectra sets which are performed on images processed on ground and geometrically, spectrally and radiometrically calibrated. Moreover, these algorithms consist of a learning step and a testing step on two set of patches acquired at different time instant and so don’t allow a fully (learning and testing) line by line processing in order to process a continuous flow of data. The objectives of this PhD will be to develop an artifact detection algorithm, computationally efficient and compatible with data as acquired by the pushbroom sensor i.e. line by line and before radiometrically, spectral and geometric corrections and calibrations, which takes advantage of recent advances in machine learning.</p>
+<p>We propose to develop anomaly line by line artifact detection algorithm which processes sensor output data flow compatible with the pushbroom acquisition: a new line of ground swath is processed at each iteration of the algorithm in order to decide, and to localize if needed, whether one or more artifacts are present. The decision will take into account spatial and spectral information acquired across the past scanned line swaths and the new line swath. Note that a similar approach was recently proposed for online deconvolution of hyperspectral images acquired using a fixed industrial imaging system above a conveyor belt in [3].</p>
+<p>We propose to address the lack of data calibration using a learning algorithm which gives more weight to measurements acquired near the decision zone. The first approach we will investigate is an adaptive strategy where two classifiers are learned simultaneously using two distinct learning rates: the rationale behind this idea is that the classifier with the larger learning rate gives “more importance” to recent samples than the other classifier, so the distance between the two classifiers outputs should increase in case of a spatially localized change. The principle of comparing two classifiers outputs with different learning rates is well-known in the field of time series processing, see for example [4]. It has recently been proposed in [5] for change point detection in time series data in conjunction with more recent machine learning techniques. In [6] this strategy is applied to the problem of change point detection in signals on graphs.
+To our knowledge, these approaches have not yet been applied for detecting artifacts in multispectral images acquired by pushbroom systems. A particular effort will be made to develop appropriate classifiers that take into account information related to the spatial and spectral coherence of an artifact. In this context, kernel-based models and convolutional neural network models are candidates that will be studied.</p>
+<p>To our knowledge, these approaches have not yet been applied for detecting artifacts in multispectral images acquired by pushbroom systems. A particular effort will be made to develop appropriate classifiers that take into account information related to the spatial and spectral coherence of an artifact. In this context, kernel-based models and convolutional neural network models are candidates that will be studied.</p>
+<p>An important part of the thesis will consist of evaluating the effect of processing uncalibrated data. For this purpose, Thales Alenia Space will provide for the same scene both: raw camera data sets and fully calibrated datasets. These datasets will make it possible to quantify the performance degradation associated with processing of uncalibrated data. The dataset foreseen are of 2 types : Sentinel 3/OLCI data acquired during the In Orbit Commissioning Review, and simulated CHIME data performed for the CHIME phase A/B1 per-development study. ESA has already agreed to the use of these data for a research purpose.</p>
+<ul>
+<li>[1] Adaptive multiple-band CFAR detection of an optical pattern with unknown spectral distribution. Reed, I.S.; Yu, X., IEEE Trans. Acoust. Speech Signal Process. 1990,38, 1760–1770.</li>
+<li>[2] Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images. Aubrun, M.; Troya-Galvis, A.; Albughdadi, M. ; Hugues, R. and Spigai, M., 13th IFIP WG 5.11 International Symposium, ISESS 2020, Wageningen, The Netherlands, February 5–7, 2020.</li>
+<li>[3] Online deconvolution for industrial hyperspectral imaging systems. Song, Y.; Djermoune, E.; Chen, J.; Richard, C.; and Brie, D. SIAM Journal on Imaging Sciences, 12(1): 54-86. 2019.</li>
+<li>[4] Control Chart Tests Based on Geometric Moving Averages. S. W., Technometrics, 1(3):239–250, 1959.</li>
+<li>[5] Newma: a new method for scalable model-free online change-point detection, Keriven, N.; Garreau, D. and Poli, I., 2018, <a href="https://arxiv.org/abs/1805.08061">https://arxiv.org/abs/1805.08061</a>.</li>
+<li>[6] Distributed change detection in streaming graph signals. Ferrari, A. ; Richard C. ; Verducci L., 2019 IEEE 7th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)</li>
+</ul>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://andferrari.github.io/post/phd20/&amp;text=PhD%20scholarship" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://andferrari.github.io/post/phd20/&amp;t=PhD%20scholarship" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=PhD%20scholarship&amp;body=https://andferrari.github.io/post/phd20/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://andferrari.github.io/post/phd20/&amp;title=PhD%20scholarship" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=PhD%20scholarship%20https://andferrari.github.io/post/phd20/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://andferrari.github.io/post/phd20/&amp;title=PhD%20scholarship" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://andferrari.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu2deb2080c16e0e651b0e2d08886c9788_1185078_270x270_fill_q90_lanczos_center.jpg" alt=""></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://andferrari.github.io/"></a></h5>
+      <h6 class="card-subtitle">Professor</h6>
+      <p class="card-text">My research interests include statistical data processing, inverse problems and machine learning</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/andferrari" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-7297-7625" target="_blank" rel="noopener">
+        <i class="fab fa-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    
+  </p>
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/julia.min.js"></script>
+        
+      
+
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    <script src="/js/_vendor/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.36a421667354aeeec64e28e7df87a27a.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

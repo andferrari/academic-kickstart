@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Vigan | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/a.-vigan/</link>
+      <atom:link href="https://andferrari.github.io/authors/a.-vigan/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Vigan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Vigan</title>
+      <link>https://andferrari.github.io/authors/a.-vigan/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of methods for detection and characterization of exoplanets with SPHERE/IRDIS</title>
+      <link>https://andferrari.github.io/publication/spie-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Software Package SPHERE: a CAOS-based numerical tool for end-to-end simulations of SPHERE/VLT</title>
+      <link>https://andferrari.github.io/publication/spie-08-b/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-08-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

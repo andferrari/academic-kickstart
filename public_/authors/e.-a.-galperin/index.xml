@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E. A. Galperin | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/e.-a.-galperin/</link>
+      <atom:link href="https://andferrari.github.io/authors/e.-a.-galperin/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. A. Galperin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1993 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>E. A. Galperin</title>
+      <link>https://andferrari.github.io/authors/e.-a.-galperin/</link>
+    </image>
+    
+    <item>
+      <title>Numerical Experiments with One Dimensional Adaptive Cubic Algorithm</title>
+      <link>https://andferrari.github.io/publication/art-goca-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-goca-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Experiments with One Dimensional Adaptive Cubic Algorithm</title>
+      <link>https://andferrari.github.io/publication/galpconf/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/galpconf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

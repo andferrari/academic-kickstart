@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. Mary | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/d.-mary/</link>
+      <atom:link href="https://andferrari.github.io/authors/d.-mary/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Mary</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Mary</title>
+      <link>https://andferrari.github.io/authors/d.-mary/</link>
+    </image>
+    
+    <item>
+      <title>A parallel and automatically tuned algorithm for multispectral image deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-mnras-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-mnras-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel image reconstruction for multi-frequency radio-interferometry</title>
+      <link>https://andferrari.github.io/publication/basp-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/basp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio-interferometry with self-tuned regularization parameters</title>
+      <link>https://andferrari.github.io/publication/eusipco-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Multi-Frequency Image Reconstruction For Radio-Interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-16-2/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-16-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and robust detection of a known pattern in an image</title>
+      <link>https://andferrari.github.io/publication/ope-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ope-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and robust exo-planet detection in multi-spectral, multi-temporal data</title>
+      <link>https://andferrari.github.io/publication/spie-16-b/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interbands phase models for polychromatic image reconstruction in optical interferometry</title>
+      <link>https://andferrari.github.io/publication/spie-16-a/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2016 Interferometric Imaging Beauty Contest</title>
+      <link>https://andferrari.github.io/publication/spie-16-d/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithmic aspects for the reconstruction of spatio-spectral data cubes in the perspective of the SKA</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale 3D image reconstruction in optical interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio interferometry. A regularized inverse problem approach</title>
+      <link>https://andferrari.github.io/publication/sparks-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sparks-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension Reduction for Hypothesis Testing in Worst-Case Scenarios</title>
+      <link>https://andferrari.github.io/publication/art-tsp-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of astrophysical sources in hyperspectral data. Applications to the MUSE instrument</title>
+      <link>https://andferrari.github.io/publication/icip-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icip-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Non-Asymptotic Standardization of Binomial Counts in Higher Criticism</title>
+      <link>https://andferrari.github.io/publication/isit-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/isit-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed image reconstruction for very large arrays in radio astronomy</title>
+      <link>https://andferrari.github.io/publication/sam-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sam-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLUP: yet another algorithm for blind unmixing of hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/whispers-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/whispers-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection de sources astrophysiques dans les données du spectrographe integral de champ MUSE</title>
+      <link>https://andferrari.github.io/publication/sfpt-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sfpt-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characterisation of polychromatic absolute and differential squared visibilities obtained from AMBER/VLTI instrument</title>
+      <link>https://andferrari.github.io/publication/art-aa-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subspace learning in minimax detection</title>
+      <link>https://andferrari.github.io/publication/icassp-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution des observables en interférométrie optique polychromatique et impact sur la reconstruction d&#39;images</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-c/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group Lasso avec contraintes de positivité et de somme unité pour le dé mé lange non-supervisé des images hyperspectrales</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-a/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parcimonie, apprentissage et classification pour une approche minimax en détection</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-b/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Back to Results Minimax sparse detection based on one-class classifiers</title>
+      <link>https://andferrari.github.io/publication/icassp-13-c/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-13-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained likelihood ratios for detecting sparse signals in highly noisy 3D data</title>
+      <link>https://andferrari.github.io/publication/icassp-13-b/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-13-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection Tests Using Sparse Models, With Application to Hyperspectral Data</title>
+      <link>https://andferrari.github.io/publication/art-tsp-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDR and LRMAP detection tests applied to massive hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/camsap-11/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/camsap-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restauration des cubes hyperspectraux du spectro-imageur MUSE</title>
+      <link>https://andferrari.github.io/publication/gretsi-2011-b/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2011-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsity-based composite detection tests. Application to astrophysical hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/eusipco-11/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sur des tests d&#39;hypothèses composites pour des paramètres parcimonieux</title>
+      <link>https://andferrari.github.io/publication/gretsi-2011-a/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite hypothesis tests for sparse parameters</title>
+      <link>https://andferrari.github.io/publication/ssp-11/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

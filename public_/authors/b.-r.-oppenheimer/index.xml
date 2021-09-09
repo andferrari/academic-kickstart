@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. R. Oppenheimer | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/b.-r.-oppenheimer/</link>
+      <atom:link href="https://andferrari.github.io/authors/b.-r.-oppenheimer/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. R. Oppenheimer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>B. R. Oppenheimer</title>
+      <link>https://andferrari.github.io/authors/b.-r.-oppenheimer/</link>
+    </image>
+    
+    <item>
+      <title>Apodized Pupil Lyot Coronagraphs: Concepts and application to the Gemini Planet Imager</title>
+      <link>https://andferrari.github.io/publication/iauc-05-c/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/iauc-05-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

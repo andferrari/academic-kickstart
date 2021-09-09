@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. -P. Folcher | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/j.-p.-folcher/</link>
+      <atom:link href="https://andferrari.github.io/authors/j.-p.-folcher/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. -P. Folcher</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. -P. Folcher</title>
+      <link>https://andferrari.github.io/authors/j.-p.-folcher/</link>
+    </image>
+    
+    <item>
+      <title>New Concepts in Imaging: Optical and Statistical Models</title>
+      <link>https://andferrari.github.io/publication/eas-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eas-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Some results on disturbance rejection control for an adaptive optics system</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

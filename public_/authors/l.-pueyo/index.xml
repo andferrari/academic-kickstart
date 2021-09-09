@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Pueyo | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/l.-pueyo/</link>
+      <atom:link href="https://andferrari.github.io/authors/l.-pueyo/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Pueyo</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Pueyo</title>
+      <link>https://andferrari.github.io/authors/l.-pueyo/</link>
+    </image>
+    
+    <item>
+      <title>Apodized pupil Lyot coronagraphs for arbitrary apertures. II. theoretical properties and application to extremely large telescopes.</title>
+      <link>https://andferrari.github.io/publication/art-apj-09-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-09-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

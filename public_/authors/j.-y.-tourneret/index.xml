@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. -Y. Tourneret | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/j.-y.-tourneret/</link>
+      <atom:link href="https://andferrari.github.io/authors/j.-y.-tourneret/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. -Y. Tourneret</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. -Y. Tourneret</title>
+      <link>https://andferrari.github.io/authors/j.-y.-tourneret/</link>
+    </image>
+    
+    <item>
+      <title>A Telemetry Monitoring System Using the One-Class SVM Method</title>
+      <link>https://andferrari.github.io/publication/wccm-17/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/wccm-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improving Spacecraft Health Monitoring with Automatic Anomaly Detection Techniques</title>
+      <link>https://andferrari.github.io/publication/spaceops-16/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spaceops-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lois de Poisson mélangées multivariées : application à la détection en présence de speckles</title>
+      <link>https://andferrari.github.io/publication/art-tsi-08/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsi-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Gamma Distributions for Image Registration and Change Detection</title>
+      <link>https://andferrari.github.io/publication/art-tip-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection d&#39;exoplanètes à l&#39;aide de méthodes des moments</title>
+      <link>https://andferrari.github.io/publication/gretsi-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential families of mixed Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/art-jmva-06/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-jmva-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter estimation for multivariate Gamma distributions, application to image registration</title>
+      <link>https://andferrari.github.io/publication/eusipco-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Estimation for Multivariate Mixed Poisson Distributions</title>
+      <link>https://andferrari.github.io/publication/icassp-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A UMP Unbiaised test for target Detection in Active Coherent Images</title>
+      <link>https://andferrari.github.io/publication/psip-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/psip-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse Statistique de la Détection de Planète par Imagerie Directe</title>
+      <link>https://andferrari.github.io/publication/gretsi-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Noncentral Wishart Distribution: Properties and Application to Speckle Imaging</title>
+      <link>https://andferrari.github.io/publication/ssp-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cramer-Rao Lower Bounds in Additive and Multiplicative Noise</title>
+      <link>https://andferrari.github.io/publication/art-sp-03/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection Performance for Discrete Test Statistics. Application to Low-Flux Imagery</title>
+      <link>https://andferrari.github.io/publication/icassp-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Mixed Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/eusipco-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barankin Lower bound for change-points in independent sequences</title>
+      <link>https://andferrari.github.io/publication/ssp-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changepoint detection in multivariate Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/icassp-02-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-02-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric modeling of photometric signals</title>
+      <link>https://andferrari.github.io/publication/art-sp-01/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cramer-Rao Lower Bound on Parameters of Abrupt Changes Corrupted by Additive and Multiplicative Noise</title>
+      <link>https://andferrari.github.io/publication/icassp-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical Analysis of a Parametric Model for Photometric Signals</title>
+      <link>https://andferrari.github.io/publication/eusipco-00/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-00/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of extra solar planets using parametric modeling</title>
+      <link>https://andferrari.github.io/publication/icassp-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sampling Jitter Detection using Higher-Order Statistics</title>
+      <link>https://andferrari.github.io/publication/hos-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/hos-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Estimation of a Gaussian Signal Sampled with Jitter</title>
+      <link>https://andferrari.github.io/publication/icassp-97-1/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-97-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

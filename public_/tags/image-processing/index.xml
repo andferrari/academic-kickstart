@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>image processing | André Ferrari</title>
+    <link>https://andferrari.github.io/tags/image-processing/</link>
+      <atom:link href="https://andferrari.github.io/tags/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    <description>image processing</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>image processing</title>
+      <link>https://andferrari.github.io/tags/image-processing/</link>
+    </image>
+    
+    <item>
+      <title>MAGELLAN</title>
+      <link>https://andferrari.github.io/project/magellan/</link>
+      <pubDate>Fri, 15 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/project/magellan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAHI</title>
+      <link>https://andferrari.github.io/project/mahi/</link>
+      <pubDate>Mon, 15 Jun 2015 01:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/project/mahi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MASTODONS</title>
+      <link>https://andferrari.github.io/project/display/</link>
+      <pubDate>Thu, 15 Jan 2015 01:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/project/display/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

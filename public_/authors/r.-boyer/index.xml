@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Boyer | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/r.-boyer/</link>
+      <atom:link href="https://andferrari.github.io/authors/r.-boyer/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Boyer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>R. Boyer</title>
+      <link>https://andferrari.github.io/authors/r.-boyer/</link>
+    </image>
+    
+    <item>
+      <title>Performance Bound for Robust Array Calibration in Radio Interferometry</title>
+      <link>https://andferrari.github.io/publication/gretsi-19/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust distributed calibration of radio interferometers with direction dependent distortions</title>
+      <link>https://andferrari.github.io/publication/art-sp-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian calibration using different prior distributions: an iterative maximum a posteriori approach for radio interferometers</title>
+      <link>https://andferrari.github.io/publication/eusipco-18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Calibration of Radio Interferometers in Multi-Frequency Scenario</title>
+      <link>https://andferrari.github.io/publication/icassp-18-a/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-18-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

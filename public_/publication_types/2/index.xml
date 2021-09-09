@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | André Ferrari</title>
+    <link>https://andferrari.github.io/publication_types/2/</link>
+      <atom:link href="https://andferrari.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://andferrari.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>A Self-Supervised Deep Learning Approach for Blind  Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data</title>
+      <link>https://andferrari.github.io/publication/art-arxiv-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-arxiv-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online change-point detection with kernels</title>
+      <link>https://andferrari.github.io/publication/art-arxiv-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-arxiv-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A parallel and automatically tuned algorithm for multispectral image deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-mnras-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-mnras-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust distributed calibration of radio interferometers with direction dependent distortions</title>
+      <link>https://andferrari.github.io/publication/art-sp-18/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution strategies for very large 3D image deconvolution algorithms</title>
+      <link>https://andferrari.github.io/publication/art-spic-18/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-spic-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion LMS for Multitask Problems With Local Linear Equality Constraints</title>
+      <link>https://andferrari.github.io/publication/art-tsp-2017/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Unmixing of Hyperspectral Data With Vector-Valued Kernel Functions</title>
+      <link>https://andferrari.github.io/publication/art-tip-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximal Multitask Learning Over Networks With Sparsity-Inducing Coregularization</title>
+      <link>https://andferrari.github.io/publication/art-tsp-16-2/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-16-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proximity operators for phase retrieval</title>
+      <link>https://andferrari.github.io/publication/art-osa-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-osa-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multitask Diffusion Adaptation Over Asynchronous Networks</title>
+      <link>https://andferrari.github.io/publication/art-tsp-16/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind and Fully Constrained Unmixing of Hyperspectral Images</title>
+      <link>https://andferrari.github.io/publication/art-tip-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PAINTER: a spatio-spectral image reconstruction algorithm for optical interferometry</title>
+      <link>https://andferrari.github.io/publication/art-josa-14/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-josa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dimension Reduction for Hypothesis Testing in Worst-Case Scenarios</title>
+      <link>https://andferrari.github.io/publication/art-tsp-14/</link>
+      <pubDate>Sat, 01 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equivalence between the Posterior Distribution of the Likelihood Ratio and a p-value in an Invariant Frame</title>
+      <link>https://andferrari.github.io/publication/art-ba-14/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ba-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characterisation of polychromatic absolute and differential squared visibilities obtained from AMBER/VLTI instrument</title>
+      <link>https://andferrari.github.io/publication/art-aa-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection Tests Using Sparse Models, With Application to Hyperspectral Data</title>
+      <link>https://andferrari.github.io/publication/art-tsp-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationnarité Relative et Approches Connexes</title>
+      <link>https://andferrari.github.io/publication/art-ts-12/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ts-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apodized Lyot coronagraph for SPHERE/VLT</title>
+      <link>https://andferrari.github.io/publication/art-expa-11/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-expa-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint myopic deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-ip-09/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ip-09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of a moving source in speckle noise. Application to exoplanet detection</title>
+      <link>https://andferrari.github.io/publication/art-tsp-07/</link>
+      <pubDate>Sun, 01 Mar 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical computation of the Lyot coronagraph response to an extended source</title>
+      <link>https://andferrari.github.io/publication/art-apj-09-b/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-09-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apodized pupil Lyot coronagraphs for arbitrary apertures. II. theoretical properties and application to extremely large telescopes.</title>
+      <link>https://andferrari.github.io/publication/art-apj-09-a/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-09-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lois de Poisson mélangées multivariées : application à la détection en présence de speckles</title>
+      <link>https://andferrari.github.io/publication/art-tsi-08/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsi-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The study of an iterative method for the reconstruction of images corrupted by Poisson and Gaussian noise</title>
+      <link>https://andferrari.github.io/publication/art-ip-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ip-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An introduction to stellar coronagraphy</title>
+      <link>https://andferrari.github.io/publication/art-cras-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-cras-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analytical Analysis of Lyot Coronographs Response</title>
+      <link>https://andferrari.github.io/publication/art-apj-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Gamma Distributions for Image Registration and Change Detection</title>
+      <link>https://andferrari.github.io/publication/art-tip-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exponential families of mixed Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/art-jmva-06/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-jmva-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speckle noise and dynamic range in coronagraphic images</title>
+      <link>https://andferrari.github.io/publication/art-apj-07-b/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-07-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Strehl ratio estimation and statistics in adaptive optics images</title>
+      <link>https://andferrari.github.io/publication/art-apj-07-l/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-apj-07-l/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cramer-Rao Lower Bounds in Additive and Multiplicative Noise</title>
+      <link>https://andferrari.github.io/publication/art-sp-03/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fringe visibility estimation in Michelson stellar interferometry: asymptotic performances</title>
+      <link>https://andferrari.github.io/publication/art-iop-03/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-iop-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric modeling of photometric signals</title>
+      <link>https://andferrari.github.io/publication/art-sp-01/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-01/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Total coronographic extinction of rectangular apertures using linear prolate apodizations</title>
+      <link>https://andferrari.github.io/publication/art-aa-01-b/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-01-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interferometric apodization of rectangular apertures. Application to stellar coronography</title>
+      <link>https://andferrari.github.io/publication/art-aa-01-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-01-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marginal Bayesian analysis of Polynomial-Phase Signals</title>
+      <link>https://andferrari.github.io/publication/art-sp-99/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parametric representation of helioseismic data. Part 1: a method for estimation of mode correlation</title>
+      <link>https://andferrari.github.io/publication/art-aa-99/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doppler Ambiguity Resolution Using Multiple PRF</title>
+      <link>https://andferrari.github.io/publication/art-taes-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-taes-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polynomial phase signal analysis using stationary moments</title>
+      <link>https://andferrari.github.io/publication/art-sp-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doppler Ambiguity Resolution Using Staggered PRF with a New Chirp Sweep Rate Estimation Algorithm</title>
+      <link>https://andferrari.github.io/publication/art-ieef-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ieef-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High Order Ergodicity of a Complex Sinusoidal Process</title>
+      <link>https://andferrari.github.io/publication/art-tit-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tit-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Numerical Experiments with One Dimensional Adaptive Cubic Algorithm</title>
+      <link>https://andferrari.github.io/publication/art-goca-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-goca-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improvements of a State-Space Iterative Noise Reduction Algorithm for Harmonic Retrieval</title>
+      <link>https://andferrari.github.io/publication/art-tsp-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new state-space algorithm for computing the frequencies of sinusoids in white noise</title>
+      <link>https://andferrari.github.io/publication/art-sp-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A single frequency efficient estimator</title>
+      <link>https://andferrari.github.io/publication/art-elec-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-elec-91/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

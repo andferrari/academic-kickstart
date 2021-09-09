@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I Smith | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/i-smith/</link>
+      <atom:link href="https://andferrari.github.io/authors/i-smith/index.xml" rel="self" type="application/rss+xml" />
+    <description>I Smith</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I Smith</title>
+      <link>https://andferrari.github.io/authors/i-smith/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian detection with the posterior distribution of the likelihood ratio</title>
+      <link>https://andferrari.github.io/publication/eusipco-10/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection from a multi-channel sensor using a hierarchical Bayesian model</title>
+      <link>https://andferrari.github.io/publication/icassp-09/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

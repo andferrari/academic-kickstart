@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>O. Besson | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/o.-besson/</link>
+      <atom:link href="https://andferrari.github.io/authors/o.-besson/index.xml" rel="self" type="application/rss+xml" />
+    <description>O. Besson</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>O. Besson</title>
+      <link>https://andferrari.github.io/authors/o.-besson/</link>
+    </image>
+    
+    <item>
+      <title>Digital Spectral Analysis: Parametric, Non-Parametric and Advanced Methods</title>
+      <link>https://andferrari.github.io/publication/wiley/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/wiley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Analysis: Parametric And Non-parametric Digital Methods</title>
+      <link>https://andferrari.github.io/publication/iste/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/iste/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse Spectrale</title>
+      <link>https://andferrari.github.io/publication/ic-2-as/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ic-2-as/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

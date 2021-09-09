@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Ferrari | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/c.-ferrari/</link>
+      <atom:link href="https://andferrari.github.io/authors/c.-ferrari/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Ferrari</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Ferrari</title>
+      <link>https://andferrari.github.io/authors/c.-ferrari/</link>
+    </image>
+    
+    <item>
+      <title>A parallel and automatically tuned algorithm for multispectral image deconvolution</title>
+      <link>https://andferrari.github.io/publication/art-mnras-19/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-mnras-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel image reconstruction for multi-frequency radio-interferometry</title>
+      <link>https://andferrari.github.io/publication/basp-17/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/basp-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio-interferometry with self-tuned regularization parameters</title>
+      <link>https://andferrari.github.io/publication/eusipco-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed Multi-Frequency Image Reconstruction For Radio-Interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-16-2/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-16-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithmic aspects for the reconstruction of spatio-spectral data cubes in the perspective of the SKA</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio interferometry. A regularized inverse problem approach</title>
+      <link>https://andferrari.github.io/publication/sparks-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sparks-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

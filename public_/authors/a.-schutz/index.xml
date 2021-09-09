@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Schutz | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/a.-schutz/</link>
+      <atom:link href="https://andferrari.github.io/authors/a.-schutz/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Schutz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>A. Schutz</title>
+      <link>https://andferrari.github.io/authors/a.-schutz/</link>
+    </image>
+    
+    <item>
+      <title>Proximity operators for phase retrieval</title>
+      <link>https://andferrari.github.io/publication/art-osa-16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-osa-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast and robust exo-planet detection in multi-spectral, multi-temporal data</title>
+      <link>https://andferrari.github.io/publication/spie-16-c/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interbands phase models for polychromatic image reconstruction in optical interferometry</title>
+      <link>https://andferrari.github.io/publication/spie-16-a/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2016 Interferometric Imaging Beauty Contest</title>
+      <link>https://andferrari.github.io/publication/spie-16-d/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large scale 3D image reconstruction in optical interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-15/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characterisation of polychromatic absolute and differential squared visibilities obtained from AMBER/VLTI instrument</title>
+      <link>https://andferrari.github.io/publication/art-aa-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution des observables en interférométrie optique polychromatique et impact sur la reconstruction d&#39;images</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-c/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Y. Cavallin | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/y.-cavallin/</link>
+      <atom:link href="https://andferrari.github.io/authors/y.-cavallin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Y. Cavallin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Y. Cavallin</title>
+      <link>https://andferrari.github.io/authors/y.-cavallin/</link>
+    </image>
+    
+    <item>
+      <title>Fringe visibility estimation in Michelson stellar interferometry: asymptotic performances</title>
+      <link>https://andferrari.github.io/publication/art-iop-03/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-iop-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Etude des performances asymptotiques en interféromt́rie des tavelures</title>
+      <link>https://andferrari.github.io/publication/gretsi-03/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-03/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extension of Whittle likelihood to transient signal parameters estimation, application to stellar speckle interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-02-b/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-02-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spectral Modes Estimation using Whittle-type Criterion, Applications to stellar speckle interferometry</title>
+      <link>https://andferrari.github.io/publication/eusipco-02-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-02-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

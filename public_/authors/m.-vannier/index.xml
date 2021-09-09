@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Vannier | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/m.-vannier/</link>
+      <atom:link href="https://andferrari.github.io/authors/m.-vannier/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Vannier</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Vannier</title>
+      <link>https://andferrari.github.io/authors/m.-vannier/</link>
+    </image>
+    
+    <item>
+      <title>Interbands phase models for polychromatic image reconstruction in optical interferometry</title>
+      <link>https://andferrari.github.io/publication/spie-16-a/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The 2016 Interferometric Imaging Beauty Contest</title>
+      <link>https://andferrari.github.io/publication/spie-16-d/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/spie-16-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Algorithmic aspects for the reconstruction of spatio-spectral data cubes in the perspective of the SKA</title>
+      <link>https://andferrari.github.io/publication/sf-2-a-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sf-2-a-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical characterisation of polychromatic absolute and differential squared visibilities obtained from AMBER/VLTI instrument</title>
+      <link>https://andferrari.github.io/publication/art-aa-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-aa-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution des observables en interférométrie optique polychromatique et impact sur la reconstruction d&#39;images</title>
+      <link>https://andferrari.github.io/publication/gretsi-13-c/</link>
+      <pubDate>Sun, 01 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-13-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

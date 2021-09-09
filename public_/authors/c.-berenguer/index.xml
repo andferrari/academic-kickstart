@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Bérenguer | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/c.-berenguer/</link>
+      <atom:link href="https://andferrari.github.io/authors/c.-berenguer/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Bérenguer</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Bérenguer</title>
+      <link>https://andferrari.github.io/authors/c.-berenguer/</link>
+    </image>
+    
+    <item>
+      <title>Doppler Ambiguity Resolution Using Multiple PRF</title>
+      <link>https://andferrari.github.io/publication/art-taes-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-taes-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimization of Sampling Instants for Non Ambiguous Radar Doppler Frequency Estimation</title>
+      <link>https://andferrari.github.io/publication/sampta-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sampta-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind Bursts Handling in Doppler Ambiguity Resolution for Multiple PRF Radar</title>
+      <link>https://andferrari.github.io/publication/radar-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/radar-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cartographie Doppler et Détection de Cibles Radar</title>
+      <link>https://andferrari.github.io/publication/gretsi-93-2/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-93-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation Doppler Radar Non Ambigüe</title>
+      <link>https://andferrari.github.io/publication/gretsi-93-1/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-93-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overdetermined Noise Compensation Without Eigendecomposition for Frequency Estimation</title>
+      <link>https://andferrari.github.io/publication/icassp-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-93/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

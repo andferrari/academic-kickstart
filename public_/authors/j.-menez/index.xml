@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Ménez | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/j.-menez/</link>
+      <atom:link href="https://andferrari.github.io/authors/j.-menez/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Ménez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 1992 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>J. Ménez</title>
+      <link>https://andferrari.github.io/authors/j.-menez/</link>
+    </image>
+    
+    <item>
+      <title>Detection of changes in a nonstationary signal using a time varying AR modelling</title>
+      <link>https://andferrari.github.io/publication/icdsp-91/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icdsp-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Approach to Estimation of the Frequency of a Noisy Cisoid</title>
+      <link>https://andferrari.github.io/publication/eusipco-92-1/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-92-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A single frequency efficient estimator</title>
+      <link>https://andferrari.github.io/publication/art-elec-91/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-elec-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A state space approach for computing Pisarenko&#39;s frequencies</title>
+      <link>https://andferrari.github.io/publication/eusipco-90/</link>
+      <pubDate>Mon, 01 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-90/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

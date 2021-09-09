@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. Vieira | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/m.-vieira/</link>
+      <atom:link href="https://andferrari.github.io/authors/m.-vieira/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. Vieira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>M. Vieira</title>
+      <link>https://andferrari.github.io/authors/m.-vieira/</link>
+    </image>
+    
+    <item>
+      <title>Marginal Bayesian analysis of Polynomial-Phase Signals</title>
+      <link>https://andferrari.github.io/publication/art-sp-99/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of the Parameters of a Polynomial Phase Signal using MCMC methods</title>
+      <link>https://andferrari.github.io/publication/icassp-97-2/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-97-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection bayésienne de saut de fréquence par des méthodes MCMC</title>
+      <link>https://andferrari.github.io/publication/gretsi-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-97/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>G. Letac | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/g.-letac/</link>
+      <atom:link href="https://andferrari.github.io/authors/g.-letac/index.xml" rel="self" type="application/rss+xml" />
+    <description>G. Letac</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>G. Letac</title>
+      <link>https://andferrari.github.io/authors/g.-letac/</link>
+    </image>
+    
+    <item>
+      <title>Exponential families of mixed Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/art-jmva-06/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-jmva-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Noncentral Wishart Distribution: Properties and Application to Speckle Imaging</title>
+      <link>https://andferrari.github.io/publication/ssp-05/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-05/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multivariate Mixed Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/eusipco-04/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-04/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Changepoint detection in multivariate Poisson distributions</title>
+      <link>https://andferrari.github.io/publication/icassp-02-a/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-02-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

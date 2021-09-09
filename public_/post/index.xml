@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | André Ferrari</title>
+    <link>https://andferrari.github.io/post/</link>
+      <atom:link href="https://andferrari.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 15:16:05 +0100</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://andferrari.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Martjin&#39;s MSS talk</title>
+      <link>https://andferrari.github.io/post/mss_2021_youtube/</link>
+      <pubDate>Fri, 05 Mar 2021 15:16:05 +0100</pubDate>
+      <guid>https://andferrari.github.io/post/mss_2021_youtube/</guid>
+      <description>&lt;p&gt;Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: &lt;em&gt;A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing&lt;/em&gt;.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/wIe0m2OxTCk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Conv. rate with Pluto 🎈</title>
+      <link>https://andferrari.github.io/post/cvx_speed/</link>
+      <pubDate>Mon, 01 Mar 2021 10:56:39 +0100</pubDate>
+      <guid>https://andferrari.github.io/post/cvx_speed/</guid>
+      <description>&lt;p&gt;Convergence rate vs Hessian condition number using a &lt;a href=&#34;https://github.com/fonsp/Pluto.jl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Pluto.jl&lt;/a&gt; notebook:
+&lt;img src=&#34;conv.gif&#34; alt=&#34;sigmoid_fit&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Plots, LinearAlgebra, PlutoUI
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;begin
+  f(x) = x[1]^2 + γ*x[2]^2
+  ∇f(x) = [2*x[1], 2*γ*x[2]]
+  opt_step(x, Δ) = - (x[1]*Δ[1] + γ*x[2]*Δ[2])/(Δ[1]^2 + γ*Δ[2]^2)
+
+  function grad_desc(; n_itermax = 40, x0 = [10, 1], ϵ = 1e-1)
+    x = zeros(2, n_itermax)
+    x[:,1] = x0
+    k = 1
+    while (norm(∇f(x[:,k])) &amp;gt; ϵ) &amp;amp;&amp;amp; (k &amp;lt; n_itermax)
+        Δ = - ∇f(x[:,k])
+        x[:, k+1] = x[:, k] + opt_step(x[:,k], Δ)*Δ
+        k += 1
+    end
+    x, k
+  end
+end
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;@bind γ Slider(1:0.1:15, default=5)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;begin	
+x, k_max = grad_desc()
+x1_, x2_ = LinRange(-10, 10, 64), LinRange(-5, 5, 64)
+contour(x1_, x2_, (x,y)-&amp;gt;f([x, y]), xl=&amp;quot;x₁&amp;quot;, yl= &amp;quot;x₂&amp;quot;, rat=:equal, cb=false);
+plot!(x[1, 1:k_max], x[2,1:k_max], m=:circle, label=&amp;quot;&amp;quot;)
+title!(&amp;quot;f(x) = x₁² + $γ.x₂²,  $(k_max-1) iterations&amp;quot;, titlefontsize=10)
+end
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD scholarship</title>
+      <link>https://andferrari.github.io/post/phd20/</link>
+      <pubDate>Thu, 07 May 2020 12:35:59 +0200</pubDate>
+      <guid>https://andferrari.github.io/post/phd20/</guid>
+      <description>&lt;h2 id=&#34;line-by-line-deep-learning-algorithm-for-detection-of-artifacts-in-uncalibrated-multispectral-satellite-images&#34;&gt;Line by line Deep Learning algorithm for detection of artifacts in uncalibrated multispectral satellite images&lt;/h2&gt;
+&lt;p&gt;The aim of artifact detection satellite image is to detect and locate pixels or set of pixels that are decorrelated from the statistically representative background. For instance, in forestry applications, infected trees are considered as artifacts, as well as water pollution in coastal clear waters. Contrarily to the target detection problem where the spectra of the target must be known, artifact detection methods generally assume no prior information about the spectra of the pixels, in both nominal and abnormal cases. State-of-the-art algorithms use reference data either from a local neighborhood around the pixel/spectrum to be tested, either using all or part of the HSI data possibly at a different time instant. The most popular among these algorithms are the Reed-Xiaoli Detector (RXD) [1] and its many variations. More recently algorithms using deep convolutional neural networks have proved their effectiveness for this task [2].&lt;/p&gt;
+&lt;p&gt;All these approaches rely on pairs of learning and testing spectra sets which are performed on images processed on ground and geometrically, spectrally and radiometrically calibrated. Moreover, these algorithms consist of a learning step and a testing step on two set of patches acquired at different time instant and so don’t allow a fully (learning and testing) line by line processing in order to process a continuous flow of data. The objectives of this PhD will be to develop an artifact detection algorithm, computationally efficient and compatible with data as acquired by the pushbroom sensor i.e. line by line and before radiometrically, spectral and geometric corrections and calibrations, which takes advantage of recent advances in machine learning.&lt;/p&gt;
+&lt;p&gt;We propose to develop anomaly line by line artifact detection algorithm which processes sensor output data flow compatible with the pushbroom acquisition: a new line of ground swath is processed at each iteration of the algorithm in order to decide, and to localize if needed, whether one or more artifacts are present. The decision will take into account spatial and spectral information acquired across the past scanned line swaths and the new line swath. Note that a similar approach was recently proposed for online deconvolution of hyperspectral images acquired using a fixed industrial imaging system above a conveyor belt in [3].&lt;/p&gt;
+&lt;p&gt;We propose to address the lack of data calibration using a learning algorithm which gives more weight to measurements acquired near the decision zone. The first approach we will investigate is an adaptive strategy where two classifiers are learned simultaneously using two distinct learning rates: the rationale behind this idea is that the classifier with the larger learning rate gives “more importance” to recent samples than the other classifier, so the distance between the two classifiers outputs should increase in case of a spatially localized change. The principle of comparing two classifiers outputs with different learning rates is well-known in the field of time series processing, see for example [4]. It has recently been proposed in [5] for change point detection in time series data in conjunction with more recent machine learning techniques. In [6] this strategy is applied to the problem of change point detection in signals on graphs.
+To our knowledge, these approaches have not yet been applied for detecting artifacts in multispectral images acquired by pushbroom systems. A particular effort will be made to develop appropriate classifiers that take into account information related to the spatial and spectral coherence of an artifact. In this context, kernel-based models and convolutional neural network models are candidates that will be studied.&lt;/p&gt;
+&lt;p&gt;To our knowledge, these approaches have not yet been applied for detecting artifacts in multispectral images acquired by pushbroom systems. A particular effort will be made to develop appropriate classifiers that take into account information related to the spatial and spectral coherence of an artifact. In this context, kernel-based models and convolutional neural network models are candidates that will be studied.&lt;/p&gt;
+&lt;p&gt;An important part of the thesis will consist of evaluating the effect of processing uncalibrated data. For this purpose, Thales Alenia Space will provide for the same scene both: raw camera data sets and fully calibrated datasets. These datasets will make it possible to quantify the performance degradation associated with processing of uncalibrated data. The dataset foreseen are of 2 types : Sentinel 3/OLCI data acquired during the In Orbit Commissioning Review, and simulated CHIME data performed for the CHIME phase A/B1 per-development study. ESA has already agreed to the use of these data for a research purpose.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] Adaptive multiple-band CFAR detection of an optical pattern with unknown spectral distribution. Reed, I.S.; Yu, X., IEEE Trans. Acoust. Speech Signal Process. 1990,38, 1760–1770.&lt;/li&gt;
+&lt;li&gt;[2] Unsupervised Learning of Robust Representations for Change Detection on Sentinel-2 Earth Observation Images. Aubrun, M.; Troya-Galvis, A.; Albughdadi, M. ; Hugues, R. and Spigai, M., 13th IFIP WG 5.11 International Symposium, ISESS 2020, Wageningen, The Netherlands, February 5–7, 2020.&lt;/li&gt;
+&lt;li&gt;[3] Online deconvolution for industrial hyperspectral imaging systems. Song, Y.; Djermoune, E.; Chen, J.; Richard, C.; and Brie, D. SIAM Journal on Imaging Sciences, 12(1): 54-86. 2019.&lt;/li&gt;
+&lt;li&gt;[4] Control Chart Tests Based on Geometric Moving Averages. S. W., Technometrics, 1(3):239–250, 1959.&lt;/li&gt;
+&lt;li&gt;[5] Newma: a new method for scalable model-free online change-point detection, Keriven, N.; Garreau, D. and Poli, I., 2018, &lt;a href=&#34;https://arxiv.org/abs/1805.08061&#34;&gt;https://arxiv.org/abs/1805.08061&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;[6] Distributed change detection in streaming graph signals. Ferrari, A. ; Richard C. ; Verducci L., 2019 IEEE 7th International Workshop on Computational Advances in Multi-Sensor Adaptive Processing (CAMSAP)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sigmoid fit</title>
+      <link>https://andferrari.github.io/post/sigmoid/</link>
+      <pubDate>Wed, 22 Apr 2020 14:34:20 +0200</pubDate>
+      <guid>https://andferrari.github.io/post/sigmoid/</guid>
+      <description>&lt;p&gt;Inspired by the nice &lt;a href=&#34;https://twitter.com/clcrozier/status/1251148890595708938?s=21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tweet&lt;/a&gt; of Constance Crozier,
+here is the julia code to illustrate the fit of a sigmoid as a function of the number of samples.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;sigmoid_fit.gif&#34; alt=&#34;sigmoid_fit&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-julia&#34;&gt;using Plots, LsqFit
+
+@. σ(x, θ) = θ[1]/(1 + exp(-θ[2]*x))
+
+x_plot = range(-6,stop=6,length=128)
+y_plot = σ(x_plot, [1, 1])
+
+n = 32
+xdata = range(-6,stop=6,length=n)
+ydata = σ(xdata, [1 1]) + 0.05*randn(n)
+
+anim = @animate for i in 2:n
+    θ_est = coef(curve_fit(σ, xdata[1:i], ydata[1:i], [1.0, 1.0]))
+    
+    plot(x_plot, y_plot, label=&amp;quot;True&amp;quot;, legend=:bottomright, ylims=(-0.25, 1.25), w=3)
+    scatter!(xdata[1:i], ydata[1:i], label=&amp;quot;&amp;quot;, ms = 5)
+    scatter!(xdata[i+1:end], ydata[i+1:end], label=&amp;quot;&amp;quot;, mc = :lightgray, ms = 5)
+    plot!(x_plot, σ(x_plot, θ_est) , label=&amp;quot;Estimated&amp;quot;, w=2)
+    vline!([xdata[i]], label=&amp;quot;&amp;quot;, w=2)
+end
+gif(anim, &amp;quot;sigmoid_fit.gif&amp;quot;, fps = 10)
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Master position</title>
+      <link>https://andferrari.github.io/post/master_graph1/</link>
+      <pubDate>Thu, 16 Jan 2020 16:43:51 +0100</pubDate>
+      <guid>https://andferrari.github.io/post/master_graph1/</guid>
+      <description>&lt;h2 id=&#34;online-novelty-detection-in-multivariate-graph-signals-application-to-hyperspectral-imaging&#34;&gt;Online novelty detection in multivariate graph signals. Application to hyperspectral imaging&lt;/h2&gt;
+&lt;p&gt;Detecting changes in network-structured time series data is of utmost importance in critical applications as diverse as detecting denial of service attacks against online service providers or monitoring energy and water supplies.&lt;/p&gt;
+&lt;p&gt;We recently devised an online change-point detection algorithm in [&lt;a href=&#34;https://andferrari.github.io/publication/camsap-19/&#34;&gt;1&lt;/a&gt;,&lt;a href=&#34;https://andferrari.github.io/publication/icassp-20/&#34;&gt;2&lt;/a&gt;] that fully benefits from the recent advances in graph signal processing to exploit the characteristics of the data that lie on irregular supports. The algorithm is able to detect anomalous clusters of activity over time in streaming scalar data measured at each node of the graph in a distributed manner across nodes.&lt;/p&gt;
+&lt;p&gt;A natural extension is to tackle the case where the measurement at each node is vectored value. This paves the way to many applications such as the detection of changes in hyper spectral images where a node is associated to each pixel, the graph models spatial dependences between pixels and each node is associated to the corresponding spectrum. The internship will focus on theoretical aspects related to the development of a multivariate detection algorithm, including multivariate graph signal processing, and practical application to change detection in multi temporal  hyperspectral images.&lt;/p&gt;
+&lt;p&gt;This is a joint work with &lt;a href=&#34;https://cedric-richard.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cédric Richard&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To apply for this intership, please contact me.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;When?&lt;/strong&gt; 4-6 months, spring 2020&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Where?&lt;/strong&gt; J.-L. Lagrange Lab., Campus Valrose, University Côte d&amp;rsquo;Azur, Nice (downtown), France&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

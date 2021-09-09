@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>F. Chatelain | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/f.-chatelain/</link>
+      <atom:link href="https://andferrari.github.io/authors/f.-chatelain/index.xml" rel="self" type="application/rss+xml" />
+    <description>F. Chatelain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>F. Chatelain</title>
+      <link>https://andferrari.github.io/authors/f.-chatelain/</link>
+    </image>
+    
+    <item>
+      <title>Lois de Poisson mélangées multivariées : application à la détection en présence de speckles</title>
+      <link>https://andferrari.github.io/publication/art-tsi-08/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsi-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bivariate Gamma Distributions for Image Registration and Change Detection</title>
+      <link>https://andferrari.github.io/publication/art-tip-07/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tip-07/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection d&#39;exoplanètes à l&#39;aide de méthodes des moments</title>
+      <link>https://andferrari.github.io/publication/gretsi-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter estimation for multivariate Gamma distributions, application to image registration</title>
+      <link>https://andferrari.github.io/publication/eusipco-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-06/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parameter Estimation for Multivariate Mixed Poisson Distributions</title>
+      <link>https://andferrari.github.io/publication/icassp-06/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

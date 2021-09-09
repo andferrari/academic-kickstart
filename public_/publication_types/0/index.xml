@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | André Ferrari</title>
+    <link>https://andferrari.github.io/publication_types/0/</link>
+      <atom:link href="https://andferrari.github.io/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://andferrari.github.io/publication_types/0/</link>
+    </image>
+    
+    <item>
+      <title>Multi-frequency image reconstruction for radio interferometry. A regularized inverse problem approach</title>
+      <link>https://andferrari.github.io/publication/sparks-15/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sparks-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLUP: yet another algorithm for blind unmixing of hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/whispers-14/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/whispers-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection de sources astrophysiques dans les données du spectrographe integral de champ MUSE</title>
+      <link>https://andferrari.github.io/publication/sfpt-14/</link>
+      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/sfpt-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalization of the posterior distribution of the likelihood ratio to composite vs composite hypotheses testing</title>
+      <link>https://andferrari.github.io/publication/isba-12/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/isba-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAP-based sparse detection strategies. Application to the hyperspectral data of the MUSE instrument.</title>
+      <link>https://andferrari.github.io/publication/ada-12/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ada-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive kernel matrix learning with hierarchic Bayesian model, application to hyperspectral images</title>
+      <link>https://andferrari.github.io/publication/igarss-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/igarss-10-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

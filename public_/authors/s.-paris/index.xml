@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Paris | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/s.-paris/</link>
+      <atom:link href="https://andferrari.github.io/authors/s.-paris/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Paris</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Paris</title>
+      <link>https://andferrari.github.io/authors/s.-paris/</link>
+    </image>
+    
+    <item>
+      <title>Detection of astrophysical sources in hyperspectral data. Applications to the MUSE instrument</title>
+      <link>https://andferrari.github.io/publication/icip-14/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icip-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constrained likelihood ratios for detecting sparse signals in highly noisy 3D data</title>
+      <link>https://andferrari.github.io/publication/icassp-13-b/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-13-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection Tests Using Sparse Models, With Application to Hyperspectral Data</title>
+      <link>https://andferrari.github.io/publication/art-tsp-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-tsp-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDR and LRMAP detection tests applied to massive hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/camsap-11/</link>
+      <pubDate>Thu, 01 Dec 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/camsap-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sparsity-based composite detection tests. Application to astrophysical hyperspectral data</title>
+      <link>https://andferrari.github.io/publication/eusipco-11/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sur des tests d&#39;hypothèses composites pour des paramètres parcimonieux</title>
+      <link>https://andferrari.github.io/publication/gretsi-2011-a/</link>
+      <pubDate>Thu, 01 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-2011-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Composite hypothesis tests for sparse parameters</title>
+      <link>https://andferrari.github.io/publication/ssp-11/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

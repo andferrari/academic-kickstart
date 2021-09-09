@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I. Bouchikhi | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/i.-bouchikhi/</link>
+      <atom:link href="https://andferrari.github.io/authors/i.-bouchikhi/index.xml" rel="self" type="application/rss+xml" />
+    <description>I. Bouchikhi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>I. Bouchikhi</title>
+      <link>https://andferrari.github.io/authors/i.-bouchikhi/</link>
+    </image>
+    
+    <item>
+      <title>Online change-point detection with kernels</title>
+      <link>https://andferrari.github.io/publication/art-arxiv-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-arxiv-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kernel based online change point detection</title>
+      <link>https://andferrari.github.io/publication/eusipco-19/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-Parametric Online Change-Point Detection with Kernel LMS By Relative Density Ratio Estimation</title>
+      <link>https://andferrari.github.io/publication/ssp-18/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/ssp-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

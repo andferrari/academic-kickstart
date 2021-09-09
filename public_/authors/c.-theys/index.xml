@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Theys | André Ferrari</title>
+    <link>https://andferrari.github.io/authors/c.-theys/</link>
+      <atom:link href="https://andferrari.github.io/authors/c.-theys/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Theys</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://andferrari.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>C. Theys</title>
+      <link>https://andferrari.github.io/authors/c.-theys/</link>
+    </image>
+    
+    <item>
+      <title>Distributed learning with kernels in wireless sensor networks for physical phenomena modeling and tracking</title>
+      <link>https://andferrari.github.io/publication/igarss-10-b/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/igarss-10-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transductive kernel matrix learning with hierarchic Bayesian model, application to hyperspectral images</title>
+      <link>https://andferrari.github.io/publication/igarss-10-a/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/igarss-10-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The study of an iterative method for the reconstruction of images corrupted by Poisson and Gaussian noise</title>
+      <link>https://andferrari.github.io/publication/art-ip-08/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ip-08/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marginal Bayesian analysis of Polynomial-Phase Signals</title>
+      <link>https://andferrari.github.io/publication/art-sp-99/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-99/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Estimation of the Parameters of a Polynomial Phase Signal using MCMC methods</title>
+      <link>https://andferrari.github.io/publication/icassp-97-2/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-97-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection bayésienne de saut de fréquence par des méthodes MCMC</title>
+      <link>https://andferrari.github.io/publication/gretsi-97/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and Estimation of Changes in a Polynomial-Phase Signal using the DPPT</title>
+      <link>https://andferrari.github.io/publication/eusipco-96-2/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-96-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polynomial phase signal analysis using stationary moments</title>
+      <link>https://andferrari.github.io/publication/art-sp-96/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-sp-96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary moments of a polynomial phase signal, application to parameter estimation</title>
+      <link>https://andferrari.github.io/publication/eusipco-96-1/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-96-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doppler Ambiguity Resolution Using Staggered PRF with a New Chirp Sweep Rate Estimation Algorithm</title>
+      <link>https://andferrari.github.io/publication/art-ieef-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/art-ieef-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection Séquentielle de Sauts dans les Paramètres d&#39;un Signal à Fréquence Polynomiale</title>
+      <link>https://andferrari.github.io/publication/gretsi-95/</link>
+      <pubDate>Sun, 01 Jan 1995 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-95/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection and Estimation of Simultaneous Multiple Phase or Amplitude Jumps in Noisy Sinusoidal Processes</title>
+      <link>https://andferrari.github.io/publication/cdc-94/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/cdc-94/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overdetermined Noise Compensation Without Eigendecomposition for Frequency Estimation</title>
+      <link>https://andferrari.github.io/publication/icassp-93/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of changes in a nonstationary signal using a time varying AR modelling</title>
+      <link>https://andferrari.github.io/publication/icdsp-91/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icdsp-91/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Fundamental Frequency of a Noisy Sum of Cisoids with Harmonic Related Frequencies</title>
+      <link>https://andferrari.github.io/publication/icassp-92/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/icassp-92/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimation of the Fundamental Frequency of a Noisy Sum of Cisoids with Harmonic Related Frequencies - Application to SONAR Multipath Delay Estimation</title>
+      <link>https://andferrari.github.io/publication/eusipco-92-2/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/eusipco-92-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Détection de trajets multiples se signaux sonar par modélisation évolutive</title>
+      <link>https://andferrari.github.io/publication/gretsi-91-1/</link>
+      <pubDate>Tue, 01 Jan 1991 00:00:00 +0000</pubDate>
+      <guid>https://andferrari.github.io/publication/gretsi-91-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
