@@ -1,5 +1,6 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
+# {{< youtube xdG1yCRwFZY >}}
 
 title: "Martjin's Asilomar 2021 talk 📽"
 subtitle: "Asilomar Conference on Signals, Systems, and Computers, 2021"
@@ -32,4 +33,4 @@ Martjin Van Ende presentation at 2021 Asilomar conference:
 _Next-Generation Traffic Monitoring with Distributed
 Acoustic Sensing Arrays and Optimum Array Processing_.
 
-{{< youtube xdG1yCRwFZY >}}
+Soon! 🥤

@@ -1,21 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Self-Supervised Deep Learning Approach for Blind  Denoising and Waveform
-  Coherence Enhancement in Distributed Acoustic Sensing data
+title: Online change-point detection with kernels
 subtitle: ''
 summary: ''
 authors:
-- M. van den Ende
-- I. Lior
-- J. -P. Ampuero
-- A. Sladen
 - A. Ferrari
 - C. Richard
+- A. Bourrier
+- I. Bouchikhi
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-03-05T16:05:24+01:00
+lastmod: 2021-09-27T15:11:00+02:00
 featured: false
 draft: false
 
@@ -33,12 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-05T15:05:24.066713Z'
+publishDate: '2021-09-27T13:10:59.975065Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*EarthArXiv e-prints*'
-
-links:
-url_preprint: 'https://eartharxiv.org/repository/object/2136/download/4437/'
+publication: '*ArXiv e-prints*'
 ---

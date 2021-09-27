@@ -1,16 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Self-Supervised Deep Learning Approach for Blind  Denoising and Waveform
-  Coherence Enhancement in Distributed Acoustic Sensing data
+title: Deep Deconvolution for Traffic Analysis with Distributed Acoustic Sensing Data
 subtitle: ''
 summary: ''
 authors:
 - M. van den Ende
-- I. Lior
-- J. -P. Ampuero
-- A. Sladen
 - A. Ferrari
+- A. Sladen
 - C. Richard
 tags: []
 categories: []
@@ -33,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-27T13:10:59.823451Z'
+publishDate: '2021-09-27T13:10:59.171831Z'
 publication_types:
 - '2'
 abstract: ''

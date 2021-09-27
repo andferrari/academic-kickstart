@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Noise2self"
+title: "Noise2self 💻"
 subtitle: ""
 summary: ""
 authors: []
