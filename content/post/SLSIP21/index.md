@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Martjin's MSS talk 🥤"
-subtitle: "IRIS 2021 Marine Seismology Symposium"
+title: "SLSIP21 workshop! 😎"
+subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2021-03-05T15:16:05+01:00
-lastmod: 2021-03-05T15:16:05+01:00
+date: 2021-10-07T16:58:14+02:00
+lastmod: 2021-10-07T16:58:14+02:00
 featured: false
 draft: false
 
@@ -28,6 +28,4 @@ image:
 projects: []
 ---
 
-Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: _A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing_.
-
-{{< youtube wIe0m2OxTCk >}}
+First post covid live presentation at [SLSIP21](https://sites.google.com/view/slsipworkshop/home)!

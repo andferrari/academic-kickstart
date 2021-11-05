@@ -1,14 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Martjin's MSS talk 🥤"
-subtitle: "IRIS 2021 Marine Seismology Symposium"
-summary: ""
-authors: []
+title: An interpretable framework for deep learning-based signal denoising under covariate
+  shift
+subtitle: ''
+summary: ''
+authors:
+- Ricardo Borsoi
+- André Ferrari
+- Cédric Richard
 tags: []
 categories: []
-date: 2021-03-05T15:16:05+01:00
-lastmod: 2021-03-05T15:16:05+01:00
+date: '2022-01-01'
+lastmod: 2021-10-27T17:23:17+02:00
 featured: false
 draft: false
 
@@ -16,8 +20,8 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: ''
+  focal_point: ''
   preview_only: false
 
 # Projects (optional).
@@ -26,8 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+publishDate: '2021-10-27T15:23:17.407592Z'
+publication_types:
+- '1'
+abstract: ''
+publication: ''
 ---
-
-Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: _A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing_.
-
-{{< youtube wIe0m2OxTCk >}}
