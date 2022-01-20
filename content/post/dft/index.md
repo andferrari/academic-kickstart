@@ -29,7 +29,7 @@ projects: []
 ---
 Fourier transforms of a sine wave using a [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebook:
 ![sigmoid_fit](dft.gif)
-The interactive noteook is on [mybinder](https://binder.plutojl.org/v0.16.4/open?url=https%253A%252F%252Fwww.dropbox.com%252Fs%252Fmb6nbbndoc69ocw%252Fsinc_pluto.jl), be patient 😴.
+The interactive notebook can be run on [binder](dft-pluto.html), but be patient 😴.
 
 ```julia
 begin

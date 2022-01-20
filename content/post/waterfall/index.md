@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Martijn's MSS talk 🥤"
-subtitle: "IRIS 2021 Marine Seismology Symposium"
+title: "Waterfall"
+subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags: ["julia"]
 categories: []
-date: 2021-03-05T15:16:05+01:00
-lastmod: 2021-03-05T15:16:05+01:00
+date: 2022-01-19T10:32:07+01:00
+lastmod: 2022-01-19T10:32:07+01:00
 featured: false
 draft: false
 
@@ -27,7 +27,14 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-Martjin Van Ende presentation at 2021 IRIS Marine Seismology Symposium: _A self-supervised Deep Learning approach for improving signal coherence in Distributed Acoustic Sensing_.
-
-{{< youtube wIe0m2OxTCk >}}
+Simple [Plots.jl](https://github.com/JuliaPlots/Plots.jl) receipe for waterfall plots 
+(a la [Unknown Pleasures](https://en.wikipedia.org/wiki/Unknown_Pleasures)). Install using:
+```julia
+pkg> add https://github.com/andferrari/WaterFall.jl
+```
+and
+```julia
+using WaterFall
+x = [exp(-(n - 1e-2*τ^2)^2/τ)  for n in 0:300, τ in 40:10:160]
+plotfall(x, w=2)
+```

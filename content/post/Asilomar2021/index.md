@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 # {{< youtube xdG1yCRwFZY >}}
 
-title: "Martjin's Asilomar 2021 talk 🥤"
+title: "Martijn's Asilomar 2021 talk 🥤"
 subtitle: "Asilomar Conference on Signals, Systems, and Computers, 2021"
 summary: ""
 authors: []
