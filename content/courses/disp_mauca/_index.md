@@ -74,14 +74,23 @@ Students will have to complete these projects during the course and are welcomed
 
 ![Example image](figure_3.png)
 ![Example image](figure_4.png)
+![Example image](figure_5.png)
 
 The course will cover parts of:
 
-> Discrete-Time Signal Processing (3rd Edition) 
->  Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. 
+> [1] Discrete-Time Signal Processing (3rd Edition) 
+> Alan V. Oppenheim, Ronald W. Schafer, and John R. Buck. 
 > Prentice-Hall Signal Processing Series
+
+> [2] Digital Image Processing, 4th Edition
+> Rafael C. Gonzalez, Richard E. Woods, 
+> Pearson 
 
 and
 
-> A Wavelet Tour of Signal Processing: The Sparse Way
+> [3] A Wavelet Tour of Signal Processing: The Sparse Way
 > Stéphane Mallat, Academic Press Inc.
+
+- Chapters 1., 2. and 3.:  Chapters 1-6 and 8-9 of [1]
+- Chapter 4.: Chapters 3 and 4 of [2]
+- Chapter 5.:  parts of [3]
