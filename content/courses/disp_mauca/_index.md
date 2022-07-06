@@ -92,5 +92,5 @@ and
 > Stéphane Mallat, Academic Press Inc.
 
 - Chapters 1., 2. and 3. of the course:  Chapters 1-6 and 8-9 of [1]
-- Chapter 4. of the course: Chapters 3 and 4 of [2]
+- Chapter 4. of the course: Chapters 3-4 of [2]
 - Chapter 5. of the course:  parts of [3]
