@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Online change-point detection with kernels
+title: Deep Deconvolution Applied to Distributed Acoustic Sensing for Traffic Analysis
 subtitle: ''
 summary: ''
 authors:
+- M. van den Ende
 - A. Ferrari
+- A. Sladen
 - C. Richard
-- A. Bourrier
-- I. Bouchikhi
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-09-27T15:11:00+02:00
+date: '2022-08-01'
+lastmod: 2022-11-16T17:10:53+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-27T13:10:59.975065Z'
+publishDate: '2022-11-16T16:10:53.743223Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*ArXiv e-prints*'
+publication: '*European Signal Processing Conference (EUSIPCO)*'
 ---

@@ -4,7 +4,7 @@ advanced:
   css_class: ''
   css_style: ''
 content:
-  count: 5
+  count: 2
   filters:
     category: ''
     exclude_featured: false
@@ -19,7 +19,7 @@ design:
 headless: true
 subtitle: ''
 title: Recent Posts
-weight: 60
+weight: 40
 widget: pages
 headless: true  # This file represents a page section.
 ---

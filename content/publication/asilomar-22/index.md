@@ -1,21 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Self-Supervised Deep Learning Approach for Blind  Denoising and Waveform
-  Coherence Enhancement in Distributed Acoustic Sensing data
+title: Self-Supervised Velocity Field Learning for High-Resolution Traffic Monitoring
+  with Distributed Acoustic Sensing
 subtitle: ''
 summary: ''
 authors:
-- M. van den Ende
-- I. Lior
-- J. -P. Ampuero
-- A. Sladen
+- Y. Khacef
+- M van den Ende
 - A. Ferrari
 - C. Richard
+- Anthony Sladen
 tags: []
 categories: []
-date: '2021-07-01'
-lastmod: 2021-09-27T15:10:59+02:00
+date: '2022-11-01'
+lastmod: 2022-11-16T17:10:53+01:00
 featured: false
 draft: false
 
@@ -33,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-27T13:10:59.823451Z'
+publishDate: '2022-11-16T16:10:53.648231Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*EarthArXiv e-prints*'
+publication: '*Signals, Systems and Computers (ASILOMAR)*'
 ---

@@ -29,7 +29,7 @@ projects: []
 ---
 Fourier transforms of a sine wave using a [Pluto.jl](https://github.com/fonsp/Pluto.jl) notebook:
 ![sigmoid_fit](dft.gif)
-The interactive notebook can be run on [binder](dft-pluto.html), but be patient 😴.
+The interactive notebook can be run on [binder](https://binder.plutojl.org/v0.19.12/open?url=https%253A%252F%252Fgist.githubusercontent.com%252Fandferrari%252F11a67e9211844f3ceea017042169b0b5%252Fraw%252F0256fb0a4679a17ce8b9589d9ce3b8be1203c40d%252Fdft.jl), but be patient 😴.
 
 ```julia
 begin
@@ -42,7 +42,7 @@ begin
     plot!(ω_DFT, f.(ω_DFT .- ω₀), line = :stem, 
       label="Discrete Fourier Transform", marker = :circle, w=2)
     vline!([ω₀], label="ω₀ = $(round(ω₀, digits=2))", w=3)
-    title!("Fourier transforms of x(n)=sin(ω₀n), n=1…$N")
+    title!("Fourier transforms of x(n)=exp(jω₀n), n=1…$N")
   end
 end
 ```

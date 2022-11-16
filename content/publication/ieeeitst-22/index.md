@@ -11,8 +11,8 @@ authors:
 - C. Richard
 tags: []
 categories: []
-date: '2021-10-01'
-lastmod: 2021-09-27T15:10:59+02:00
+date: '2022-11-10'
+lastmod: 2022-11-16T16:58:06+01:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-27T13:10:59.171831Z'
+publishDate: '2022-11-16T15:58:06.417501Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*EarthArXiv e-prints*'
+publication: '*IEEE Transactions on Intelligent Transportation Systems Transactions*'
 ---
